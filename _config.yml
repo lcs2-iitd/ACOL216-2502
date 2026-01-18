@@ -7,9 +7,9 @@ course_semester: "Semester II, 2025-26"
 baseurl: "/ACOL316-2502" # the subpath of your site, e.g. /blog/
 url: "http://lcs2-iitd.github.io/" # the base hostname & protocol for your site
 
-schoolname: "IIT Delhi"
-schoolurl: "https://www.lcs2.in"
-twitter_username: lcs2lab 
+schoolname: "IIT Delhi - Abu Dhabi"
+schoolurl: "https://iitdabudhabi.ac.ae/"
+# twitter_username: lcs2lab 
 
 address: |
     Laboratory for Computational Social Systems (LCS2)
