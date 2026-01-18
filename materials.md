@@ -9,7 +9,7 @@ permalink: /materials/
 
 ## Reference Books
 
-* <a href="https://archive.org/details/computer-system-architecture-morris-mano-third-edition/page/n7/mode/2up" target="_blank">Computer System Architecture</a>, M. Morris Mano
+* <a href="https://archive.org/details/computer-system-architecture-morris-mano-third-edition/mode/2up" target="_blank">Computer System Architecture</a>, M. Morris Mano
 * <a href="https://www.cse.iitd.ac.in/~srsarangi/archbook/archbook.pdf" target="_blank">Basic Computer Architecture</a>, Smruti R. Sarangi
 
 ## Related Courses (Non-exhaustive)
