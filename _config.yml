@@ -8,7 +8,7 @@ baseurl: "/ACOL316-2502" # the subpath of your site, e.g. /blog/
 url: "http://lcs2-iitd.github.io/" # the base hostname & protocol for your site
 
 schoolname: "IIT Delhi - Abu Dhabi"
-schoolurl: "https://iitdabudhabi.ac.ae/"
+schoolurl: "https://iitdabudhabi.ac.ae"
 twitter_username: IITDAD123 
 
 address: |
