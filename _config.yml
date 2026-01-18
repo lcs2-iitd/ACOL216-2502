@@ -43,7 +43,7 @@ collections:
     assignments:
         output: true
     announcements:
-        output: true
+        output: false
 
 
 defaults:
