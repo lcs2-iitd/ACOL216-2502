@@ -3,6 +3,9 @@ layout: page
 title: Materials
 permalink: /materials/
 ---
+## Exam Questions
+
+* [Quiz-1](static_files/quiz/ACOL216_Quiz_1_Final.pdf) ([Solution](static_files/quiz/ACOL216_Quiz_1_Solution-1.pdf))
   
 ## Textbooks
 * <a href="https://www.cse.iitd.ac.in/~srsarangi/archbook/archbook.pdf" target="_blank">Basic Computer Architecture</a>, Smruti R. Sarangi
