@@ -9,6 +9,9 @@ items:
   
 - url: /tutorials/
   name: Tutorials
+
+- url: /quiz/
+  name: Daily Quiz
   
 - url: /assignments/
   name: Assignments
