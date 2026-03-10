@@ -5,7 +5,7 @@ title: 'Assignment 1: RISC-Tac-Toe'
 attachment: /static_files/assignments/ACOL216_Assignment_1.pdf
 due_event:
     type: due
-    date: 2026-03-07T23:59:00+4:00
+    date: 2026-04-08T23:59:00+4:00
     description: 'Assignment due'
 ---
 In this assignment, you will design and implement a complete Tic-Tac-Toe State Verifier for a generalized 6x6 board using the SimpleRISC assembly language. 
