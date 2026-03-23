@@ -8,3 +8,4 @@ permalink: /tutorials/
 * [Tutorial-3](static_files/tutorials/ACOL216_Tutorial_3.pdf) (Feb 16, 2026)
 * [Tutorial-4](static_files/tutorials/ACOL216_Tutorial_4.pdf) (Feb 23, 2026)
 * [Tutorial-5](static_files/tutorials/ACOL216_Tutorial_5.pdf) (Mar 2, 2026)
+* [Tutorial-6](static_files/tutorials/ACOL216_Tutorial_6.pdf) (Mar 23, 2026)
