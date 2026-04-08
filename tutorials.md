@@ -10,3 +10,4 @@ permalink: /tutorials/
 * [Tutorial-5](static_files/tutorials/ACOL216_Tutorial_5.pdf) (Mar 2, 2026)
 * [Tutorial-6](static_files/tutorials/ACOL216_Tutorial_6.pdf) (Mar 23, 2026)
 * [Tutorial-7](static_files/tutorials/ACOL216_Tutorial_7.pdf) (Mar 30, 2026)
+* [Tutorial-8](static_files/tutorials/ACOL216_Tutorial_8.pdf) (Apr 6, 2026)
