@@ -11,3 +11,5 @@ permalink: /tutorials/
 * [Tutorial-6](static_files/tutorials/ACOL216_Tutorial_6.pdf) (Mar 23, 2026)
 * [Tutorial-7](static_files/tutorials/ACOL216_Tutorial_7.pdf) (Mar 30, 2026)
 * [Tutorial-8](static_files/tutorials/ACOL216_Tutorial_8.pdf) (Apr 6, 2026)
+* Tutorial-9 (Apr 13, 2026). Hands-on session using Logisim. Set up Logisim from <a href="https://github.com/logisim-evolution/logisim-evolution/releases">here</a>, or use it's <a href="https://logisim.app/">webapp</a>.
+* Tutorial-10 (Apr 27, 2026) [[Verilog Set up](static_files/tutorials/ACOL216_Tutorial_10_Setup.pdf); [HDL Programs](static_files/tutorials/ACOL216_Tutorial_10_HDL.pdf)]
