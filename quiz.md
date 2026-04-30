@@ -12,3 +12,5 @@ permalink: /quiz/
 * [Daily Quiz 7: April 2](/static_files/daily_quiz/Apr02.pdf)
 * [Daily Quiz 8: April 7](/static_files/daily_quiz/Apr07.pdf)
 * [Daily Quiz 9: April 9](/static_files/daily_quiz/Apr09.pdf)
+* [Daily Quiz 10: April 28](/static_files/daily_quiz/Apr28.pdf)
+* [Daily Quiz 11: April 30](/static_files/daily_quiz/Apr30.pdf)
