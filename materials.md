@@ -7,6 +7,7 @@ permalink: /materials/
 
 * [Quiz-1](static_files/quiz/ACOL216_Quiz_1_Final.pdf) ([Solution](static_files/quiz/ACOL216_Quiz_1_Solution-1.pdf))
 * [Quiz-2](static_files/quiz/ACOL216_Quiz_2.pdf)
+* [Quiz-3](static_files/quiz/ACOL216_Quiz_3.pdf)
 * [Mid-Term Exam](static_files/quiz/ACOL216_MidSem.pdf) ([Solution](static_files/quiz/ACOL216_MidSem_Solution.pdf))
   
 ## Textbooks
